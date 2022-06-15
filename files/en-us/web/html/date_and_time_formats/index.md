@@ -400,7 +400,7 @@ While this format allows for time zones between -23:59 and +23:59, the current r
       <td>August 22, 1789 at a tenth of a second past 4:30 PM</td>
     </tr>
     <tr>
-      <td><code>3755-01-01 00:00+10:00</code></td>
+      <td><code>3755-01-01 00:00+11:00</code></td>
       <td>
         January 1, 3755 at midnight Australian Eastern Standard Time (AEST)
       </td>
